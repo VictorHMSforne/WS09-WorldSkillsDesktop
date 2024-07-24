@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\WS\WS\WS\bin\Debug\DbConsultorio.mdf
+C:\Users\Aluno\Desktop\WS\WS\WS\bin\Debug\DbConsultorio_log.ldf
+C:\Users\Aluno\Desktop\WS\WS\WS\bin\Debug\WS.exe.config
+C:\Users\Aluno\Desktop\WS\WS\WS\bin\Debug\WS.exe
+C:\Users\Aluno\Desktop\WS\WS\WS\bin\Debug\WS.pdb
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.Properties.Resources.resources
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.exe
+C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.pdb
