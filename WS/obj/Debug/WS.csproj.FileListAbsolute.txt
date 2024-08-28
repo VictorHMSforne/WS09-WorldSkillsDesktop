@@ -18,3 +18,8 @@ C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.csproj.Generate
 C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
 C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.exe
 C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.pdb
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\bin\Debug\DbConsultorio.mdf
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\bin\Debug\DbConsultorio_log.ldf
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\bin\Debug\WS.exe.config
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\bin\Debug\WS.exe
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\bin\Debug\WS.pdb

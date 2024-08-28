@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
+using System.Configuration;
 
 namespace WS
 {
@@ -17,7 +18,7 @@ namespace WS
         public string HoraSai { get; set; }
         public string Turno { get; set; }
 
-        SqlConnection con = new SqlConnection ("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Aluno\\Desktop\\WS\\WS\\WS\\DbConsultorio.mdf;Integrated Security=True");
+        SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["ConsultorioDB"].ConnectionString);
 
         public List<Medico> Listar()
         {
