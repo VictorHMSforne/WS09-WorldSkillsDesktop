@@ -11,3 +11,10 @@ C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.GenerateResource.cache
 C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.exe
 C:\Users\Aluno\Desktop\WS\WS\WS\obj\Debug\WS.pdb
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.FrmPrincipal.resources
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.Properties.Resources.resources
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.exe
+C:\Users\User\OneDrive\Área de Trabalho\desktop\WS\obj\Debug\WS.pdb

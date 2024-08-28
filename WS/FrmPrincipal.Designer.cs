@@ -92,7 +92,7 @@
             this.dgvManha.ReadOnly = true;
             this.dgvManha.Size = new System.Drawing.Size(310, 276);
             this.dgvManha.TabIndex = 4;
-            this.dgvManha.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvManha_CellClick);
+
             // 
             // label2
             // 
@@ -143,7 +143,7 @@
             this.dgvTarde.ReadOnly = true;
             this.dgvTarde.Size = new System.Drawing.Size(349, 276);
             this.dgvTarde.TabIndex = 12;
-            this.dgvTarde.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTarde_CellClick);
+
             // 
             // dgvNoite
             // 
@@ -157,7 +157,7 @@
             this.dgvNoite.ReadOnly = true;
             this.dgvNoite.Size = new System.Drawing.Size(316, 276);
             this.dgvNoite.TabIndex = 13;
-            this.dgvNoite.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvNoite_CellClick);
+
             // 
             // label5
             // 
