@@ -39,9 +39,11 @@ SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["no
 
 6. Antes de Finalizarmos, é necessário que você mude uma Propriedade do seu BD(O nome do BD está diferente, pois eu estava fazendo o teste em outro projeto, mas realize o tutorial normalmente):
 <img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-5.png"/>
+
 Clique com o ***botão direito*** do mouse no BD, para abrir as propriedades.
 
 7. Em **Copiar para diretório de Saída** mude a opção `Copiar sempre` para: `Copiar se for mais novo`:
+
 <img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-6.png"/>
  
 
