@@ -37,14 +37,27 @@ AppDomain.CurrentDomain.SetData("DataDirectory", AppDomain.CurrentDomain.BaseDir
 SqlConnection con = new SqlConnection(ConfigurationManager.ConnectionStrings["nomeUsado no add name da etapa 2"].ConnectionString);
 ```
 
-6. Antes de Finalizarmos, é necessário que você mude uma Propriedade da sua solução(O nome da solução está diferente, pois eu estava fazendo o teste em outro projeto, mas realize o tutorial normalmente):
+6. Antes de Finalizarmos, é necessário que você mude uma propriedade do seu projeto,
+clique com o ***botão direito*** do mouse no projetop, para abrir as propriedades.
 <img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-5.png"/>
 
-Clique com o ***botão direito*** do mouse na solução, para abrir as propriedades.
-
-7. Em **Copiar para diretório de Saída** mude a opção `Copiar sempre` para: `Copiar se for mais novo`:
-
+7. Após aberto essa janela, clique na opção compilar e em: ***Caminho de saída*** clique em ***Procurar...***
 <img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-6.png"/>
+
+8. Feito isso, volte duas pastas de onde está localizado, provavelmente fique assim:
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-7.png"/>
+Depois clique em selecionar pasta.
+
+9. Por fim a ideia é que fique assim:
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo-8.png"/>
+
+---
+
+## Avisando:
+
+Quando você exportar o seu projeto, o seu BD estará preenchido com os dados anteriores, pois, como mudamos o diretório de saída, estamos utilizando o BD da versão de desenvolvimento
+e não a versão de execução
+
  
 
 
