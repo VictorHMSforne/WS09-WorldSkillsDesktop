@@ -1,5 +1,7 @@
 # WS
 
+# Cadeia de conexão para .NET Framework:
+
 Cadeia de Conexão adaptada para qualquer local, caso você não queira gerar o executável:
 ```C#
 SqlConnection con = new SqlConnection($@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""{Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\"))}nomeDoBanco.mdf"";Integrated Security=True");
