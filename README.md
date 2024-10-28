@@ -60,6 +60,7 @@ Depois clique em selecionar pasta.
 Quando você exportar o seu projeto, o seu BD estará preenchido com os dados anteriores, pois, como mudamos o diretório de saída, estamos utilizando o BD da versão de desenvolvimento
 e não a versão de execução
 
- 
+---
+# Cadeia de Conexão para o .NET
 
 
