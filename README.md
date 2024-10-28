@@ -61,6 +61,26 @@ Quando você exportar o seu projeto, o seu BD estará preenchido com os dados an
 e não a versão de execução
 
 ---
-# Cadeia de Conexão para o .NET
+# Cadeia de Conexão para o .NET:
+
+Código para a Cadeia de Conexão:
+```C#
+string databasePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"DbMedico.mdf");
+string _connectionString = $@"Server=(LocalDB)\MSSQLLocalDB;Integrated Security=true;AttachDbFilename={databasePath};";
+```
+1. De forma Geral o código irá ficar assim:
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo1-net.png"/>
+
+2. Após ter inserido o BD no seu projeto, clique com o botão direito sobre os arquivos gerados e vá nas propriedades de cada um:
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo2-net.png"/>
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo3-net.png"/>
+Note abaixo, que no meu já está como: **Copiar sempre**, mas por padrão costuma vir: **Não Copiar**.
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo4-net.png"/>
+Troque de **Não Copiar** para **Copiar Sempre**
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo5-net.png"/>
+3. Por Fim faça com ambos os arquivos do BD gerados:
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo4-net.png"/>
+<img src="https://github.com/VictorHMSforne/WS09-WorldSkillsDesktop/blob/master/Etapas/passo6-net.png"/>
+
 
 
